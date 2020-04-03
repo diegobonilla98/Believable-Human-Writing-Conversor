@@ -10,12 +10,13 @@ Tired of being asked by my teachers to not do any essay in the PC and to write t
 
 ## How to customize
 Yoy can change the text, color and size, x and y coordinates and more. Introducing commands. They all have to start and end with the wiggle: "\~".
-**\~C\~:** Specifies the color in RGB format ie: _\~C(45, 120, 255)_\~. Also has the predefined red-blue-black pen colors ie: _\~Cred\~_ or _\~Cblue\~_ ...
-**~S~:** Specifies the text size, default is like 100, ie: _~S200~_.
-**~#~:** Converts any number in number format to string, ie: _~#210~_ will output: two-hundred and ten.
-**~T~:** Moves the x coordinate in pixels, ie: _~T140~_.
-**~P~:** Moves the y coordinate in pixels, ie: _~P200~_.
-**~R~:** Resets the default text color and size, ie: _~R~_.
+
+-**\~C\~:** Specifies the color in RGB format ie: _\~C(45, 120, 255)_\~. Also has the predefined red-blue-black pen colors ie: _\~Cred\~_ or _\~Cblue\~_ ...
+-**\~S\~:** Specifies the text size, default is like 100, ie: _\~S200\~_.
+-**\~#\~:** Converts any number in number format to string, ie: _\~#210\~_ will output: two-hundred and ten.
+-**\~T\~:** Moves the x coordinate in pixels, ie: _\~T140\~_.
+-**\~P\~:** Moves the y coordinate in pixels, ie: _\~P200\~_.
+-**\~R\~:** Resets the default text color and size, ie: _\~R\~_.
 
 Also the script lets you specify the default values at the begginig of the text to convert. Simply put ":" at the start of the first line and then you can change variable values separated by comma-spacing ", ". The values you can change with the default values speak for themselves: 
 
