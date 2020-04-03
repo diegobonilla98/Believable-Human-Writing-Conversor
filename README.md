@@ -41,7 +41,7 @@ color = (0, 0, 0)
 As said, for example, if you want to change the default color and the initial text y coordinate just let the first line of your .txt be:
 _:color=(255,0,0), initial_y=50_
 
-And there you go! Just paste some text in a .txt file (text.txt) and the program will do the rest. To make a font with your hand-writing, print the templates and scan them in the https://www.calligraphr.com/ webpage (you may have to exclude some characters or pay the full version...). Here is how it looks:
+And there you go! Just paste some text in a .txt file (texto.txt) and the program will do the rest. To make a font with your hand-writing, print the templates and scan them in the https://www.calligraphr.com/ webpage (you may have to exclude some characters or pay the full version...). Here is how it looks:
 
 ![](text.png)
 
