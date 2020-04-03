@@ -9,8 +9,8 @@ Tired of being asked by my teachers to not do any essay in the PC and to write t
 4. TOTALLY CUSTOMIZABLE!
 
 ## How to customize
-Yoy can change the text, color and size, x and y coordinates and more. Introducing commands. They all have to start and end with the wiggle: "~".
-**~C~:** Specifies the color in RGB format ie: _~C(45, 120, 255)_. Also has the predefined red-blue-black pen colors ie: _~Cred~_ or _~Cblue~_ ...
+Yoy can change the text, color and size, x and y coordinates and more. Introducing commands. They all have to start and end with the wiggle: "/~".
+**\~C~:** Specifies the color in RGB format ie: _~C(45, 120, 255)_. Also has the predefined red-blue-black pen colors ie: _~Cred~_ or _~Cblue~_ ...
 **~S~:** Specifies the text size, default is like 100, ie: _~S200~_.
 **~#~:** Converts any number in number format to string, ie: _~#210~_ will output: two-hundred and ten.
 **~T~:** Moves the x coordinate in pixels, ie: _~T140~_.
